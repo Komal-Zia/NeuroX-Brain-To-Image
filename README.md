@@ -1,10 +1,10 @@
 #  NeuroX: Brain-to-Image AI Translator
 ### (An Adaptive AI System for Robust fMRI Decoding)
 
-NeuroX is an advanced artificial intelligence framework designed to read human brain activity (fMRI scans) and reconstruct them into high-resolution, realistic visual images[cite: 1, 2]. The system operates under two core conditions:
+NeuroX is an advanced artificial intelligence framework designed to read human brain activity (fMRI scans) and reconstruct them into high-resolution, realistic visual images. The system operates under two core conditions:
 
 1. **Perception (Viewed Images):** When a person is actively looking at a visual stimulus, the system decodes the visual cortex signals to accurately reconstruct the exact image being viewed.
-2. **Mental Imagery (Imagined Content):** When a person closes their eyes and simply imagines a scene or an object (like a tiger or an elephant), the system extracts these top-down, internally generated signals to translate their thoughts into a shareable visual representation[cite: 1, 2].
+2. **Mental Imagery (Imagined Content):** When a person closes their eyes and simply imagines a scene or an object (like a tiger or an elephant), the system extracts these top-down, internally generated signals to translate their thoughts into a shareable visual representation.
 
 ---
 
